@@ -8,11 +8,11 @@ Webdesigner e desenvolvedor web, trabalhando de forma remota. Sou gestor de proj
 
 | | |
 |---|---|
-| [![Autoescola Carajás](projetos/autoescola-carajas.jpg)](https://autoescola-carajas.netlify.app)<br>**Autoescola Carajás** · landing page | [![Zayr](projetos/zayr.jpg)](https://github.com/DarkAvocard/zayr-vitrine)<br>**Zayr** · sistema de gestão |
-| [![CFC Xinguara](projetos/cfc-xinguara.jpg)](https://cfcxinguara.com.br)<br>**CFC Xinguara** · landing page | [![Marta Miudezas](projetos/marta-miudezas.jpg)](https://martamiudeza.netlify.app)<br>**Marta Miudezas** · site institucional |
-| [![CFC Dirigir](projetos/cfc-dirigir.jpg)](https://cfc-dirigir.netlify.app)<br>**CFC Dirigir** · landing page | Mais trabalhos no [portfólio](https://portfolio-pdr.netlify.app) |
+| [![Autoescola Carajás](projetos/autoescola-carajas.jpg)](https://autoescola-carajas.netlify.app)<br>**Autoescola Carajás** · landing page | [![Prime Class Imobiliária](projetos/prime-class.jpg)](https://primeclassimobiliaria.com.br)<br>**Prime Class Imobiliária** · site institucional |
+| [![Zayr](projetos/zayr.jpg)](https://github.com/DarkAvocard/zayr-vitrine)<br>**Zayr** · sistema de gestão | [![É o Bicho](projetos/e-o-bicho.jpg)](https://petshopeobicho.com.br)<br>**É o Bicho** · pet shop e clínica |
+| [![Dreamverse](projetos/dreamverse.jpg)](https://dreamverse.com.br)<br>**Dreamverse** · agência de viagens | [![Marta Miudezas](projetos/marta-miudezas.jpg)](https://martamiudeza.netlify.app)<br>**Marta Miudezas** · site institucional |
 
-O código dos sistemas é privado. Aqui ficam só as telas e a descrição.
+Mais trabalhos no [portfólio](https://portfolio-pdr.netlify.app). O código dos sistemas é privado; aqui ficam só as telas e a descrição.
 
 ### Zayr
 
